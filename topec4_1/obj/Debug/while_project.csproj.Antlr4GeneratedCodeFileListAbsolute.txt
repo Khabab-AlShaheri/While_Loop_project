@@ -1,0 +1,6 @@
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerLexer.cs
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerParser.cs
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerListener.cs
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerBaseListener.cs
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerVisitor.cs
+C:\Users\ComputerWorld\Desktop\مشروع مترجمات نهائي\مجلد جديد\5\While_Loop_Project\topec4_1\obj\Debug\MyGrammerBaseVisitor.cs
